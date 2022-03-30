@@ -76,5 +76,5 @@ A seguir, a lista de exercicios propostos pelo Curso em Vídeo:
 46) Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 47) Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 48) Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
-49)
-50)
+49) Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+50) Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
