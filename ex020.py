@@ -1,4 +1,3 @@
-from nntplib import GroupInfo
 import random
 n1 = input('Primeiro aluno: ')
 n2 = input('Segundo aluno: ')
